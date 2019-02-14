@@ -14,7 +14,7 @@
       button{
         display: none;
       }
-    </style>
+    </style> 
   </head>
   <body>
     <?php
